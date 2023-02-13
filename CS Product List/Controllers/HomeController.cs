@@ -18,24 +18,39 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        return View(ProductDAL.GetAll());
     }
+
+    //public IActionResult Index()
+    //{
+    //    List<Product> result = dbContext.Products.ToList();
+    //    return View(result);
+    //}
 
     public IActionResult Privacy()
     {
         return View();
     }
 
-    public IActionResult ProductView()
-    {
-        List<Product> result = dbContext.Products.ToList();
-        return View(result);
-    }
-
     public IActionResult ProductDetails(int id)
     {
-        Product result = dbContext.Products.FirstOrDefault(p => p.Id == id);
-        return View(result);
+        return View(ProductDAL.GetById(id));
+    }
+
+    //public IActionResult ProductDetails(int id)
+    //{
+    //    Product result = dbContext.Products.FirstOrDefault(p => p.Id == id); //.Find(id)
+    //    return View(result);
+    //}
+
+    public IActionResult Categories()
+    {
+        return View(ProductDAL.GetAllCategories());
+    }
+
+    public IActionResult ProductsByCategory(string category)
+    {
+        return View(ProductDAL.GetAllByCategory(category));
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

@@ -1,4 +1,38 @@
 ﻿<Properties StartupConfiguration="{4E9A9884-179A-4281-BAFD-3282CB5FB807}|Default">
-  <MonoDevelop.Ide.ItemProperties.CS_220Product_220List FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CS_220Product_220List PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS Product List/Views/Home/ProductsByCategory.cshtml">
+    <Files>
+      <File FileName="CS Product List/Controllers/HomeController.cs" Line="53" Column="60" />
+      <File FileName="CS Product List/Views/Home/Index.cshtml" Line="11" Column="22" />
+      <File FileName="CS Product List/Views/Home/ProductDetails.cshtml" Line="1" Column="5" />
+      <File FileName="CS Product List/Models/ProductDAL.cs" Line="23" Column="5" />
+      <File FileName="CS Product List/Views/Home/Categories.cshtml" Line="13" Column="81" />
+      <File FileName="CS Product List/Views/Home/ProductsByCategory.cshtml" Line="14" Column="2" />
+      <File FileName="CS Product List/Views/Shared/_Layout.cshtml" Line="29" Column="131" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CS Product List" expanded="True">
+            <Node name="CS Product List" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="ProductsByCategory.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

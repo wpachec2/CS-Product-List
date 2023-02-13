@@ -1,4 +1,4 @@
-﻿@model Product
+﻿@model List<Product>
 
 @{
     ViewData["Title"] = "Home Page";
@@ -8,5 +8,14 @@
     <h1 class="display-4">Welcome to GC Cafe!</h1>
 </div>
 
-<h3>Click here to see the <a href="ProductView">Menu.</a></h3>
+<h3>Here is our Menu:</a></h3>
+
+@{
+    foreach (Product p in Model)
+    {
+        <div>
+            <p><a asp-action="ProductDetails" asp-route-id="@p.Id">@p.Name</a> $@p.Price</p>
+        </div>
+    }
+}
 
