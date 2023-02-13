@@ -1,0 +1,24 @@
+﻿@model Product
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1 class="postHeader">@Model.Name</h1>
+<p>@Model.Description</p>
+<p>Catagory: @Model.Category</p>
+<p>Price: @Model.Price</p>
+
+<!--
+insert some products
+connect EF to your project
+Create a productList view
+Get all products to display on the page
+Create a productDetails view
+get it to display the info of one product
+
+On productList, set up each product to link to its prouctDetails
+hint:<a class="nav-link text-dark" asp-action="PostDetails" asp-route-id="">
+-->

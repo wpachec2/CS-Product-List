@@ -1,0 +1,87 @@
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/appsettings.Development.json
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/appsettings.json
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/CS Product List.staticwebassets.runtime.json
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/CS Product List
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/CS Product List.deps.json
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/CS Product List.runtimeconfig.json
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/CS Product List.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/CS Product List.pdb
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Azure.Core.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Azure.Identity.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Humanizer.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.CodeDom.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.Text.Json.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.csproj.AssemblyReference.cache
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.AssemblyInfoInputs.cache
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.AssemblyInfo.cs
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.csproj.CoreCompileInputs.cache
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.MvcApplicationPartsAssemblyInfo.cache
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.RazorAssemblyInfo.cache
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.RazorAssemblyInfo.cs
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/staticwebassets/msbuild.CS Product List.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/staticwebassets/msbuild.build.CS Product List.props
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CS Product List.props
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CS Product List.props
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/staticwebassets.build.json
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/staticwebassets.development.json
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/scopedcss/bundle/CS Product List.styles.css
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/scopedcss/projectbundle/CS Product List.bundle.scp.css
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.csproj.CopyComplete
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/refint/CS Product List.dll
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.pdb
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/CS Product List.genruntimeconfig.cache
+/Users/wilchec/GrandCircus/Projects/CS Product List/CS Product List/obj/Debug/net6.0/ref/CS Product List.dll
